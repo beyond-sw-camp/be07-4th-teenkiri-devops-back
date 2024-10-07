@@ -86,7 +86,8 @@ TEENKIRI의 목표는 무상으로 제공되는 고품질 교육을 통해 경�
 
 
 ## 배포 아키텍쳐
-![배포아키텍쳐](https://github.com/user-attachments/assets/c5ea69d0-0674-4cc2-b48c-b08aa175737e)
+![dev-배포](https://github.com/user-attachments/assets/76e89c40-83c7-47c3-b393-19c0af055821)
+
 <br>
 ### 아키텍쳐 선택이유
 |  | **Kubernetes** | docker compose |
